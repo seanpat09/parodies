@@ -1,0 +1,10 @@
+Solomon cron.d,
+Born on a * * * * 0,
+Christened on a * * * * 1,
+Married on * * * * 2,
+Took ill on * * * * 3,
+Grew worse on * * * * 4,
+Died on * * * * 5,
+Buried on * * * * 6,
+That was the end,
+Of Solomon cron.d

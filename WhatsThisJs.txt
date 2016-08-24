@@ -1,0 +1,92 @@
+WhatsThis.js
+(to the tune of 'What's This?' From The Nightmare Before Christmas)
+
+What's this, what's this?
+My scope is everywhere.
+What's this?
+And now it isn't there.
+
+What's this?
+Call, apply and bind,
+What am I typing
+setTimeout? This isn't fair!
+What's this?
+
+What's this? What's this?
+I guess I'll check this blog
+What's this?
+Now try console.log()
+
+What's this?
+The code is lined with
+debugs laughing
+breakpoints trying to see what's happening
+Have I possibly gone daffy?
+What is this?
+
+What's this?
+
+There's functions throwing exceptions
+undefined it said
+Suddenly it's working
+And now my code is dead
+
+this is equal to the window?
+Oh, I can't believe my eyes
+This async function has a new
+scope coming from inside.
+
+Alert! What's this?
+They're binding to the scope! Var that?
+That is still defined! Inspired!
+This will just be that and it's still the same
+Every time it fires!
+What's this?
+
+What's this?
+Right here! A method named call? How queer
+And who would ever think?
+Apply?
+
+This is bound to all sorts of things
+Following a call stack like a string
+And there's a smile on everyone
+So now correct me if I'm wrong
+
+This is dumb!
+This is fun!
+Oh, could it be I got my wish?
+What's this?
+
+Oh my, what now?
+A callback argument?
+But look, call() cannot be sent
+Or apply(), no parameters to declare them
+Or ensnare them, but bind() ensures they're
+Defined inside this function
+
+What's this?
+This is still just missing
+The scope cannot be found
+And in their place there seems to be
+Undefined's all around
+
+Instead of binding correctly
+Another var I have to declare
+The sight of programs crashing
+Are absolutely everywhere
+
+The stacks, the calls!
+They're everywhere and all, around
+I never felt so confused, before!
+This implied scope keeps hoisting up
+I simply cannot get this function up
+
+I want this, oh I want this
+I want this to be known
+I've got to know, I've got to know
+Is there a syntax that is sound?
+What! Is! This!
+
+Arrow functions? Hmm…
+

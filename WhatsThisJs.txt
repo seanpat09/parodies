@@ -39,8 +39,8 @@ scope coming from inside.
 Alert! What's this?
 They're binding to the scope! Var that?
 That is still defined! Inspired!
-This will just be that and it's still the same
-Every time it fires!
+This is set to that to keep this constant
+Every single time it fires
 What's this?
 
 What's this?
@@ -62,10 +62,11 @@ Oh my, what now?
 A callback argument?
 But look, call() cannot be sent
 Or apply(), no parameters to declare them
-Or ensnare them, but bind() ensures they're
-Defined inside this function
+Or ensnare them, but bind() ensures that they are
+Defined inside this function... hmm....
 
 What's this?
+
 This is still just missing
 The scope cannot be found
 And in their place there seems to be

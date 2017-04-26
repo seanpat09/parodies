@@ -42,16 +42,16 @@ Come on
 / I pray all ten fade away
 / Seldom praise Him for the sunny days
 / 
-/ And like His promise is true
-/ Only my faith can undo
-/ The many chances I blew
-/ To bring my life to anew
-/ Clear blue and unconditional skies
-/ Have dried the tears from my eyes
-/ No more lonely cries
+And with agile it's true
+Iterations can undo
+The scope changes from you
+To bring my features anew
+Clear sprints and requirements docs
+Have dried the tears from my eyes
+No more lonely cries
 / 
-/ My only bleedin' hope
-/ Is for the folk who can't cope
+/ My only bleedin' hope - //And as the features come
+/ Is for the folk who can't cope //To the teams who can't scrum
 / With such an endurin' pain
 / That it keeps 'em in the pourin' rain
 / Who's to blame
